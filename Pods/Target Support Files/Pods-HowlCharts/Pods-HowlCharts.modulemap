@@ -1,0 +1,6 @@
+framework module Pods_HowlCharts {
+  umbrella header "Pods-HowlCharts-umbrella.h"
+
+  export *
+  module * { export * }
+}
